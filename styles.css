@@ -1,0 +1,44 @@
+/* Place your CSS styles in this file */
+body {
+    background-image: url(k.GIF2.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+        
+} 
+h2 { text-align: left;
+    font-family: Arial, Helvetica, sans-serif;} 
+
+h3 { text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;}  
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 15px;
+    text-align: left;
+}
+p {font-family: sans-serif;
+   font-size: larger;
+   font-weight: bolder}
+.gambarSDGs {width: 650px;
+            display: block;
+            margin: auto;}
+.gambarlogo {width: 300px;
+            display: block;
+            margin-right: auto;}
