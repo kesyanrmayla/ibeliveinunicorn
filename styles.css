@@ -57,3 +57,9 @@ p {
     display: block;
     margin: auto;
 }
+
+iframe {
+    margin: auto;
+    display: block;
+    width: 700px;
+}
