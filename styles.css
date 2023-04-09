@@ -67,3 +67,9 @@ iframe {
     display: block;
     width: 700px;
 }
+
+.gambarkelompok {
+    width: 500px;
+    display: block;
+    margin: auto;
+}
