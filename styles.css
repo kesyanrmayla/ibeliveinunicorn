@@ -74,8 +74,10 @@ iframe {
     display: block;
     margin: auto;
 }
-img {
+Background-image{
     opacity: 0.4;
     filter: alpha(opacity=40); /* For IE8 and earlier */
 }
+
+
 
