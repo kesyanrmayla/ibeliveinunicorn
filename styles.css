@@ -24,11 +24,13 @@ h3 {
     font-weight: 700;
     font-size: x-large;
 }
+
 h4 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: x-large;
 }
+
 nav ul {
     list-style: none;
     display: flex;
@@ -89,3 +91,39 @@ iframe {
     margin: auto;
 }
 
+.slider {
+    position: relative;
+}
+
+.slide {
+    display: none;
+}
+
+.slide img {
+    width: 1000px;
+    height: auto;
+    margin: 480px;
+
+}
+
+.prev,
+.next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.prev {
+    left: 10px;
+
+}
+
+.next {
+    right: 10px;
+
+}
